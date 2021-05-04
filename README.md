@@ -7,10 +7,7 @@ The product is designed to help summoners with their champion selection process 
 ## Application Screenshots
 Below screenshots are produced with dummy data.
 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-04 at 04 35 35](https://user-images.githubusercontent.com/25420198/116978945-6256f200-ac92-11eb-919a-51340083be0d.png)
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-04 at 04 36 28](https://user-images.githubusercontent.com/25420198/116978954-6551e280-ac92-11eb-91c9-426976ed1c12.png)
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-04 at 04 36 49](https://user-images.githubusercontent.com/25420198/116978966-684cd300-ac92-11eb-9f53-ba6c2345bfea.png)
-
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-04 at 04 35 35](https://user-images.githubusercontent.com/25420198/116979143-9e8a5280-ac92-11eb-86cb-78aa457105b7.png)  ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-04 at 04 36 28](https://user-images.githubusercontent.com/25420198/116979151-a1854300-ac92-11eb-9920-32fbc9daff87.png)  ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-04 at 04 36 49](https://user-images.githubusercontent.com/25420198/116979160-a34f0680-ac92-11eb-94d3-78991121f69e.png)
 
 
 
