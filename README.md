@@ -13,6 +13,14 @@ The application will run solely based on data collected from RIOT's database aft
 ![SignIn View](https://user-images.githubusercontent.com/25420198/117507335-dd4f2f80-af54-11eb-93d8-b80111e80279.png)   ![Sign Up View](https://user-images.githubusercontent.com/25420198/117507346-e0e2b680-af54-11eb-8bf2-6414cf9de4ee.png)<br />
 Users will be able to sign up with valid email addresses and passwords. They will also be able to sign in using Google and Facebook accounts.
 
+### 2. Each role's champion selections(My Champions Selection) upon first time sign in.
+
+![TopSelection](https://user-images.githubusercontent.com/25420198/117508130-1340e380-af56-11eb-974d-854955f99b01.png)  ![JungleSelection](https://user-images.githubusercontent.com/25420198/117508142-16d46a80-af56-11eb-93da-fbe625b9ff8f.png) ![MidSelection](https://user-images.githubusercontent.com/25420198/117508149-1a67f180-af56-11eb-8c48-3ff21d5ceb3d.png)  ![AdcSelection](https://user-images.githubusercontent.com/25420198/117508151-1c31b500-af56-11eb-8d21-3d4a435c9b46.png)  ![SupportSelection](https://user-images.githubusercontent.com/25420198/117508153-1e940f00-af56-11eb-8bbd-7e65ecda06d2.png)  <br />
+Upon their first time signing in, they will be prompted to select the champions they like to use to go each corresponding lanes.
+
+
+
+
 
 
 
