@@ -10,7 +10,7 @@ The application will run solely based on data collected from RIOT's database aft
 
 #1. Sign In/Sign Up
 
-![SignIn View](https://user-images.githubusercontent.com/25420198/117507335-dd4f2f80-af54-11eb-93d8-b80111e80279.png)   ![Sign Up View](https://user-images.githubusercontent.com/25420198/117507346-e0e2b680-af54-11eb-8bf2-6414cf9de4ee.png)
+![SignIn View](https://user-images.githubusercontent.com/25420198/117507335-dd4f2f80-af54-11eb-93d8-b80111e80279.png)   ![Sign Up View](https://user-images.githubusercontent.com/25420198/117507346-e0e2b680-af54-11eb-8bf2-6414cf9de4ee.png)<br />
 Users will be able to sign up with valid email addresses and passwords. They will also be able to sign in using Google and Facebook accounts.
 
 
