@@ -1,4 +1,4 @@
-# LoLSelectHelperPublic
+# LoLSelectHelper
 
 ## Application Description
 The product is designed to help summoners with their champion selection process and gain better insights on team's champion compositions. The users of LoLSelectHelper will be asked to choose 0 to 4 hovered or already selected teammate champions and 0 to 5 already selected enemy champions. Then, the application will display the remaining champions win rates with 0 to 4 chosen teammate champions against 0 to 5 chosen enemy champions.
