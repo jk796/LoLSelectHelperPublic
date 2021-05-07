@@ -5,8 +5,8 @@ Public repository created for receiving Riot API's production API Key
 The product is designed to help summoners with their champion selection process and gain better insights on team's champion compositions. The users of LoLSelectHelper will be asked to choose 0 to 4 hovered or already selected teammate champions and 0 to 5 already selected enemy champions. Then, the application will display the remaining champions win rates with 0 to 4 chosen teammate champions against 0 to 5 chosen enemy champions.
 
 ## Application Flow Screenshots
-Below screenshots are produced with 37,807 match data scraped from op.gg ONLY for testing purposes.
-The application will run solely based on data collected from RIOT's database after acquisition of the production API Key.
+Below screenshots are produced with 37,807 match data for testing purposes.
+After the acquisition of the production API Key, I plan to include at least 1 million and at most 10 miilion match data from NA server by platinum+ players based on query speed of SQLite database I'm planning to include in my app bundle.
 
 ### 1. Sign In/Sign Up
 
