@@ -18,6 +18,10 @@ Users will be able to sign up with valid email addresses and passwords. They wil
 ![TopSelection](https://user-images.githubusercontent.com/25420198/117508130-1340e380-af56-11eb-974d-854955f99b01.png)  ![JungleSelection](https://user-images.githubusercontent.com/25420198/117508142-16d46a80-af56-11eb-93da-fbe625b9ff8f.png) ![MidSelection](https://user-images.githubusercontent.com/25420198/117508149-1a67f180-af56-11eb-8c48-3ff21d5ceb3d.png)  ![AdcSelection](https://user-images.githubusercontent.com/25420198/117508151-1c31b500-af56-11eb-8d21-3d4a435c9b46.png)  ![SupportSelection](https://user-images.githubusercontent.com/25420198/117508153-1e940f00-af56-11eb-8bbd-7e65ecda06d2.png)  <br />
 Upon their first time signing in, they will be prompted to select the champions they like to use to go each corresponding lanes.
 
+### 3. Main Champion/ Enemy Champion Compositions View(After non-first time signins/after My champion selections after first time sign in)
+
+![Main Select View](https://user-images.githubusercontent.com/25420198/117508469-a11cce80-af56-11eb-89e7-903aa49017d6.png)  ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-07 at 17 08 39](https://user-images.githubusercontent.com/25420198/117508693-05d82900-af57-11eb-8e67-b998d2b11fa6.png)  ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-07 at 17 09 21](https://user-images.githubusercontent.com/25420198/117508703-083a8300-af57-11eb-8d19-014752718292.png)<br />
+On this view, users can select 0 to 4 hovered/already selected teammate champions and 0 to 5 already selected enemy champions by clicking on blue/red selection icons. After each blue/red icon selection, the view will then present current composition's win rates/number of games played at the bottom.
 
 
 
