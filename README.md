@@ -6,7 +6,7 @@ The product is designed to help summoners with their champion selection process 
 
 ## Application Flow Screenshots
 Below screenshots are produced with 37,807 match data for testing purposes.
-After the acquisition of the production API Key, I plan to include at least 1 million and at most 10 miilion match data from NA server by platinum+ players based on query speed of SQLite database I'm planning to include in my app bundle.
+After the acquisition of the production API Key, I plan to include at least 1 million and at most 10 miilion match data from NA server by platinum+ players based on query speed of SQLite database I'm planning to include in my app bundle. As of now, the 37,807 matchdata is organized in a JSON structure and decoded by JSONDecoder. This will not be fast enough for 1 million + records.
 
 ### 1. Sign In/Sign Up
 
